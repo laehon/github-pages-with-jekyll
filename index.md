@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "hi"
 ---
 
 My name is Leon
